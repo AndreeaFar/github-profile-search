@@ -1,5 +1,5 @@
 const Repo = () => {
-  return <div>Repo</div>;
+  return <div className="border p-2 m-2">Repo</div>;
 };
 
 export default Repo;
