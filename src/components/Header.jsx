@@ -9,7 +9,7 @@ const Header = () => {
         backgroundImage: `url(${backgroundImage})`,
       }}>
       <div className="flex items-center justify-center">
-        <div className="flex items-center w-2/4 p-4 bg-grayblue rounded-lg ">
+        <div className="flex items-center w-96 p-4 bg-grayblue rounded-lg ">
           <img src={searchIcon} alt="Search" className=" w-5 h-5 mr-3" />
           <input
             type="text"
